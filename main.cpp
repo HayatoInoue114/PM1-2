@@ -4,7 +4,7 @@ int main() {
 
 	printf("Hello GitHub World\n");
 
-	printf("Hello New branch\n");
+	printf("New Branch Changed\n");
 
 	int a = 0;
 	while (a != 1) {
