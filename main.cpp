@@ -3,12 +3,13 @@
 int main() {
 
 	printf("Hello GitHub World\n");
+  
+  printf("New branch changed\n");
 
-	printf("Hello New Branch\n");
 
 	int a = 0;
 	while (a != 1) {
-		printf("\nƒRƒ“ƒ\[ƒ‹ƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ğI—¹‚·‚éê‡‚Í”š‚Ì1‚ğ“ü—Í‚µEnter‚ğ‰Ÿ‚·");
+		printf("\nã‚³ãƒ³ã‚½ãƒ¼ãƒ«ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã‚’çµ‚äº†ã™ã‚‹å ´åˆã¯æ•°å­—ã®1ã‚’å…¥åŠ›ã—Enterã‚’æŠ¼ã™");
 		scanf_s("%d", &a);
 	}
 
