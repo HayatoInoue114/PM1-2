@@ -6,6 +6,8 @@ int main() {
 
 	printf("Hello New Branch\n");
 
+	printf("third branch\n");
+
 	int a = 0;
 	while (a != 1) {
 		printf("\nコンソールアプリケーションを終了する場合は数字の1を入力しEnterを押す");
